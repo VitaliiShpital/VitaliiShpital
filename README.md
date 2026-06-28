@@ -3,8 +3,8 @@
 
 7+ years of engineering production systems where security and uptime are non-negotiable — decentralized cloud storage, cross-border Web3 wallets, secure billing architectures, and high-frequency data streaming. Experienced in leading cross-functional teams and bridging the gap between heavy backend infrastructure and scalable user interfaces.
 
-Frontend  →  TypeScript · Vue.js · React · React Native
-Backend   →  Golang · Node.js · NestJS · PostgreSQL · CockroachDB
+Frontend  →  TypeScript · Vue.js · React · React Native<br>
+Backend   →  Golang · Node.js · NestJS · PostgreSQL · CockroachDB<br>
 Web3      →  DIDs · Verifiable Credentials · DWN · Metamask Integrations
 
 ---
