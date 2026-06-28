@@ -39,7 +39,7 @@ Web3      →  DIDs · Verifiable Credentials · DWN · Metamask Integrations
 
 ### Stack
 
-*   **Languages:** TypeScript, JavaScript, Golang, Node.js, Python (basic), C# (basic) SQL, HTML5/SCSS
+*   **Languages:** TypeScript, JavaScript, Golang, Node.js, Python (basic), C# (basic), SQL, HTML5/SCSS
 *   **Frameworks:** Vue 2/3 (Vuex, Pinia), React (Redux, React Query, Context), NestJS, TypeORM, Knex.js
 *   **Databases:** PostgreSQL, CockroachDB, MongoDB
 *   **Tools & Protocols:** Playwright, Jest, Stripe API, AWS S3, Firebase, Vite, Web Workers, WASM
