@@ -10,7 +10,7 @@ Experienced Software Engineer specializing in Web3, FinTech, Blockchain, and Fil
 - **Languages:** TypeScript, JavaScript, Golang, Node.js, Python (basic), C# (basic), SQL
 - **Frontend:** Vue.js (Vue 2/3, Pinia/Vuex), React (Hooks, Context, Redux, React Query), React Native
 - **Backend & DB:** NestJS, TypeORM, PostgreSQL, MongoDB, CockroachDB
-- **Web3 / Systems:** DID, Verifiable Credentials, Bitcoin Lightning Network, AWS S3, WebAssembly
+- **Web3 / Systems:** DID, Verifiable Credentials, AWS S3, WebAssembly, Stripe
 - **Testing:** Playwright, Jest, Vue Test Utils
 
 ---
